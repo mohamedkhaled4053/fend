@@ -2,7 +2,11 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* index.html 
+* README.md
+* css
+- styles.css
+* 
 
 ## Instructions
 
